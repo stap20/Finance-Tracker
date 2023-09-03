@@ -1,0 +1,6 @@
+[submodule "Finance-Tracker-App"]
+	path = Finance-Tracker-App
+	url = https://github.com/stap20/Finance-Tracker-App.git
+[submodule "Finance-Tracker-API"]
+	path = Finance-Tracker-API
+	url = https://github.com/stap20/Finance-Tracker-API.git
